@@ -1,0 +1,16 @@
+name: geospatial
+channels:
+  - conda-forge
+dependencies:
+# JupyterLab
+  - jupyterlab
+# Python scientific libraries
+  - numpy
+  - matplotlib
+  - xarray
+# Geospatial libraries
+  - rasterio
+  - geopandas
+  - rioxarray
+  - pystac-client
+  - python-graphviz
