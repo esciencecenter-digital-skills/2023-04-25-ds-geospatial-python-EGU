@@ -2,13 +2,13 @@
 
 ## Setup
 
-In order to code along in this short course, you can click on one of the following badges:
-
+In order to quickly get started, please **click on the following badge**:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/esciencecenter-digital-skills/2023-04-25-ds-geospatial-python-EGU.git/HEAD)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esciencecenter-digital-skills/2023-04-25-ds-geospatial-python-EGU)
 
-If you want to set up a similar environment on your computer, please follow these setup instructions.
+You will get access to a JupyterLab environment running on [mybinder.org](https://mybinder.org). 
+
+This environment is suitable for short sessions and demonstrations, but [resources are limited](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html)! If you want to keep experimenting with Python, we recommend to set up an analogous environment on your computer, and you can do so by [following these setup instructions](https://carpentries-incubator.github.io/geospatial-python/setup.html).
 
 ## Resources
 
