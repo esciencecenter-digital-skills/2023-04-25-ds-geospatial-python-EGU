@@ -2,19 +2,21 @@
 
 ## Setup
 
+### Option A (Recommended): mybinder.org
+
 In order to quickly get started, please **click on the following badge**:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/esciencecenter-digital-skills/2023-04-25-ds-geospatial-python-EGU.git/HEAD)
 
 You will get access to a JupyterLab environment running on [mybinder.org](https://mybinder.org). 
 
-### Plan B: Google Colab
+### Option B: Google Colab
 
-If the above Binder option does not work for you, please to the following Colab badge:
+If the above Binder option does not work for you, please click on the following Colab badge:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esciencecenter-digital-skills/2023-04-25-ds-geospatial-python-EGU/)
 
-You can select one of the four notebooks of this course and run them in Google Colab environment. However it has the following limitations:
+You can select one of the four notebooks of this course and run them in a Google Colab environment. However it has the following limitations:
 
 1. You need a Google account
 2. You need to upload the course data manually to the Colab environment. To do this, 1) download this GitHub repository as a `.zip` file, 2) unzip it locally, and 3) upload the `data` folder to the Colab environment.
