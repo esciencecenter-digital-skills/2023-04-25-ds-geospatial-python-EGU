@@ -2,7 +2,7 @@
 
 ## Setup
 
-### Option A (Recommended): mybinder.org
+### Option A (Recommended): Mybinder.org
 
 In order to quickly get started, please **click on the following badge**:
 
@@ -22,7 +22,7 @@ You can select one of the four notebooks of this course and run them in a Google
 2. You need to upload the course data manually to the Colab environment. To do this, 1) download this GitHub repository as a `.zip` file, 2) unzip it locally, and 3) upload the `data` folder to the Colab environment.
 3. You need to install Python dependencies manually on Colab. To do this, uncomment the first cell (with the `pip` command) in the notebook and execute it.
 
-### After workshop: working locally
+### Option C: local setup
 
 The solutions described above are suitable for short sessions and demonstrations, but [resources are limited](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html)! If you want to keep experimenting with Python, we recommend to set up an environment on your computer. You can do so by [following these setup instructions](https://carpentries-incubator.github.io/geospatial-python/setup.html).
 
