@@ -22,7 +22,7 @@ You can select one of the four notebooks of this course and run them in Google C
 
 ### After workshop: working locally
 
-This environment is suitable for short sessions and demonstrations, but [resources are limited](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html)! If you want to keep experimenting with Python, we recommend to set up an analogous environment on your computer, and you can do so by [following these setup instructions](https://carpentries-incubator.github.io/geospatial-python/setup.html).
+The solutions described above are suitable for short sessions and demonstrations, but [resources are limited](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html)! If you want to keep experimenting with Python, we recommend to set up an environment on your computer. You can do so by [following these setup instructions](https://carpentries-incubator.github.io/geospatial-python/setup.html).
 
 ## Resources
 
